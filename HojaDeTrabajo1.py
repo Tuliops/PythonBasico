@@ -3,7 +3,11 @@ print()
 print("Ingrese Su Peso (kg)")
 peso= float(input())
 print()
+<<<<<<< HEAD
 print ("Ingrese Su Estatura (m)")
+=======
+print ("Engrese Su Estatura (m)")
+>>>>>>> main
 estatura =float(input())
 imc=float(0);
 imc=peso/estatura**2
